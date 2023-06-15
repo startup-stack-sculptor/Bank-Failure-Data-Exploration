@@ -1,0 +1,14 @@
+* FDIC's Failed Bank Visualization
+Exploration of patterns and data driven decision we can derive from the data provided by [[https://catalog.data.gov/dataset/fdic-failed-bank-list][FDIC Failed Bank List]].
+
+** Time series Analysis
+
+** Geospatial Analysis
+
+** Bank Size and Failure Analysis
+
+** Regulaatory Factors
+
+** Market Conditions
+
+** Comparative Analysis
