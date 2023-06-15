@@ -7,7 +7,7 @@ Exploration of patterns and data driven decision we can derive from the data pro
 
 ** Bank Size and Failure Analysis
 
-** Regulaatory Factors
+** Regularatory Factors
 
 ** Market Conditions
 
