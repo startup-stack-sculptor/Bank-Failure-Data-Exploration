@@ -1,6 +1,11 @@
 * FDIC's Failed Bank Visualization
 Exploration of patterns and data driven decision we can derive from the data provided by [[https://catalog.data.gov/dataset/fdic-failed-bank-list][FDIC Failed Bank List]].
 
+** Goals
+*** Number of bank failures by state
+
+A bar chart that shows the number of bank failures grouped by state. This visualization can help identify states with a higher frequency of bank failures and potentially uncover regional patterns or trends.
+
 ** Time series Analysis
 
 ** Geospatial Analysis
